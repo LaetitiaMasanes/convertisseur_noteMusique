@@ -1,2 +1,2 @@
 # convertisseur_noteMusique
-Ce projet permet de convertir les note française (do, ré, mi...) en note américaine (C, D, E...)
+Ce projet permet de convertir les notes françaises (do, ré, mi...) en notes américaines (C, D, E...).
